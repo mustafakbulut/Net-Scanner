@@ -4,7 +4,7 @@ This is a simple network scanner script with python.
 
 ## Requirements
 
-You can learn how to install scapy module from this [site](https://scapy.readthedocs.io/en/latest/installation.html).
+You can learn how to install Scapy library from this [site](https://scapy.readthedocs.io/en/latest/installation.html).
 
 ## Usage
 
